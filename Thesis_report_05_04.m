@@ -1,7 +1,7 @@
 % Thesis: RSSI-based localization - Simulation
 % Generate the WiFi node and Robot in simulation environment
-% data haven't been filtered yet
-% Lai Quoc Bao - 21/03/2021
+% data has been filtered through Particle filter then to EKF localization algorithm
+% Lai Quoc Bao - 02/04/2021
 
 % Start simulation
 %==========================================================================
